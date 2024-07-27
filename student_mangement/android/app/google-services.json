@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185999511136",
+    "project_id": "schoolmanagement-62cfe",
+    "storage_bucket": "schoolmanagement-62cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185999511136:android:718b7084932d1db7013d05",
+        "android_client_info": {
+          "package_name": "com.test.School_Anouncement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqXmHqVYBvhiijbgWluGLqEFP10EGJN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
